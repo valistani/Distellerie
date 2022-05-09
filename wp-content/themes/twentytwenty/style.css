@@ -669,6 +669,10 @@ iframe.instagram-media {
 	margin-top: 0.8em;
 }
 
+.site-content {
+	display: none;
+}
+
 
 /* Inputs ------------------------------------ */
 
